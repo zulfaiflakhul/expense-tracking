@@ -40,7 +40,7 @@ A full-stack web application to track your personal income and expenses, featuri
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/expense-tracker-app.git
+git clone https://github.com/zulfaiflakhul/expense-tracking.git
 cd expense-tracker-app
 ```
 ### 2. Back End Setup
@@ -90,7 +90,7 @@ npm run dev
 
 ## 🕒 Development Timeline
 
-This project was developed in approximately **3 hours**, from **19:00 to 22:00**, including backend API setup, React UI design, Tailwind CSS styling, and chart integration.
+This project was developed in approximately **3 hours**, from **April 22, 11:00 PM** to **April 23, 02:00 AM**, including backend API setup, React UI design, Tailwind CSS styling, and chart integration.
 
 ## 👨‍💻 Author
 Built with ❤️ by Zulfa Iflakhul Fadilla
